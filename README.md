@@ -5,6 +5,6 @@ all dependincies and libraries that included in both files must be installed fir
 ![agftb2](https://user-images.githubusercontent.com/108225310/175821980-caf2f4cd-f661-4aaa-8bc8-092814ff26a1.jpg)
 ![agftb1](https://user-images.githubusercontent.com/108225310/175821983-be83724c-b2d8-405c-b4e1-f389d231e402.png)
 
-The ultrasonuc sensor is configured to activate the buzzer whenever the distance is 30cm or less.
+The ultrasonic sensor is configured to activate the buzzer whenever the distance is 30cm or less.
 ![f1](https://user-images.githubusercontent.com/108225310/175823779-c4800fa6-bb67-4851-83d8-ed991643a3c8.png)
 ![f2](https://user-images.githubusercontent.com/108225310/175823783-590de16b-9b75-4854-9137-e4b61d505b3e.png)
